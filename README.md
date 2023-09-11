@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiellenkaroline
 - 👀 I’m interested in software develop
-- 🌱 I’m currently learning language phyton 
+- 🌱 I’m currently learning language python
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me linkdln
 
