@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiellenkaroline
 - 👀 I’m interested in software develop back-end and cybersecurtity
-- 🌱 I’m currently learning language python and Java
+- 🌱 I’m currently a fan of the Java language
 - 💞️ I’m looking to collaborate on programs
 - 📫 How to reach me linkdln: https://www.linkedin.com/in/kiellen-karoline-350b95291/ or e-mail: karolinekiellen@gmail.com
 
