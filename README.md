@@ -14,7 +14,7 @@ Aqui estão algumas das linguagens de programação e tecnologia que estou famil
 
 ##  📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{karolinekiellen@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{karolinekiellen@gmail.com}.)
+![Gmail Badge](https://img.shields.io/badge/-karolinekiellen@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{karolinekiellen@gmail.com}.)
 [![Linkedin: Kiellen ](https://img.shields.io/badge/-kiellenkaroline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/kiellen-karoline-350b95291/)
 
 
