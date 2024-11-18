@@ -10,7 +10,7 @@
 
 Aqui estão algumas das linguagens de programação e tecnologia que estou familiarizada:
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=java,py,php,hibernate,postman,maven,css,html,spring,docker,bootstrap,figma,git,github,idea,mysql,postgres,vercel)](skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=java,py,php,cs,hibernate,postman,maven,css,html,spring,docker,react,bootstrap,figma,git,github,idea,mysql,postgres,vercel)](skillicons.dev)
 
 ##  📫 Contato
 
